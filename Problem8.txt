@@ -1,0 +1,13 @@
+//Program to prints integers between 0 and 36
+package com.pack1;
+
+public class Problem8 {
+
+	public static void main(String[] args) {
+		for(int i=1;i<36;i++) {
+			System.out.println(i);
+		}
+
+	}
+
+}

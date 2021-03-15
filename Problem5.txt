@@ -1,0 +1,17 @@
+package com.pack1;
+
+public class Problem5 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello World!\n"
+				+ "It's been nice knowing you.\n"
+				+ "Goodbye world!");
+
+	}
+
+}
+/*Output:
+Hello World!
+It's been nice knowing you.
+Goodbye world!*/

@@ -1,0 +1,13 @@
+package com.pack1;
+
+public class Problem9 {
+public static void main(String[] args) {
+		String name = "Rank";
+		
+       System.out.println("Hello "+name);
+
+       System.out.println();
+	}
+}
+/*Output:
+Hello Rank*/
